@@ -1,1 +1,3 @@
 # SimpleChatApp
+
+https://lucid.app/lucidchart/de27f2c0-2ea0-4c29-82d3-d67773a6bf3a/edit?view_items=RSkhGVqj-_iN%2CRSkh8U3cSh.k%2CRSkhECxNFPvq%2CRSkhqXuySlxX%2CQVkhN-Gh5UoW%2CQVkhMA0sC~7F%2CQVkhpzKVEvnN%2CQVkhsJeBtda~%2Casih1wT-aviA%2CdxihRVuRKiaW%2CZLihKRvL4Gfa%2CZLih_3cOa2wU%2CZLih~H2Q2Orc%2Chvih2Px7WXS5%2CP9ihX15.8ucT%2CYDihGGn2MMOY%2CP9ih0083m3ti%2CP9ihivWATbqc%2C7fjhZqWIBtBg%2CgNkhcSPrCw7k%2CgNkhvO6L.~U0%2CgNkhigdRjq0E%2CgNkh1EMa3~1c%2CEDkhw49MRZ0r%2CFJihK_kIP0pe%2CkKkh66GdY6tb%2C7HihGcmjXQ1O%2Cv.khMxlw8zGg%2CIalhwcx_ajom%2Cuclh1JFXziGr%2CddlhoCdocV5h%2C-blhgOu-t-h2%2CJdlh0JLd1plp%2CT.kh_AEup72U&invitationId=inv_a4bbbd50-898b-449c-ac49-9bcc5bba0ea2
